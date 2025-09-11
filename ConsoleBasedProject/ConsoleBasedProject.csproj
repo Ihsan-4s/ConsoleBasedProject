@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleBasedProject.dataUmur</StartupObject>
+    <StartupObject>ConsoleBasedProject.Nilai</StartupObject>
   </PropertyGroup>
   <PropertyGroup />
   <ItemGroup>
@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="dataUmur.cs" />
+    <Compile Include="Nilai.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
