@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleBasedProject.Nilai</StartupObject>
+    <StartupObject>ConsoleBasedProject.loopForeach</StartupObject>
   </PropertyGroup>
   <PropertyGroup />
   <ItemGroup>
@@ -48,7 +48,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="dataUmur.cs" />
+    <Compile Include="loopDoWhile.cs" />
+    <Compile Include="loopFor.cs" />
+    <Compile Include="loopForeach.cs" />
+    <Compile Include="loopWhile.cs" />
     <Compile Include="Nilai.cs" />
+    <Compile Include="Nilai2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
