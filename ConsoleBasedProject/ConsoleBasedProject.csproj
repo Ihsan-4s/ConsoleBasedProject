@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleBasedProject.loopForeach</StartupObject>
+    <StartupObject>ConsoleBasedProject.lolaNilaiArray</StartupObject>
   </PropertyGroup>
   <PropertyGroup />
   <ItemGroup>
@@ -47,7 +47,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="absensiArraytest.cs" />
+    <Compile Include="lolaNilaiArray.cs" />
+    <Compile Include="nilaiArray.cs" />
     <Compile Include="dataUmur.cs" />
+    <Compile Include="list.cs" />
     <Compile Include="loopDoWhile.cs" />
     <Compile Include="loopFor.cs" />
     <Compile Include="loopForeach.cs" />
